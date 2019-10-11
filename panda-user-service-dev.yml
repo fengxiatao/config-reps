@@ -6,6 +6,15 @@ spring:
   sleuth:
     sampler:
       percentage: 1
+  # jpa自动创建不存在的数据表
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      use-new-id-generator-mappings: true
+  jackson:
+    serialization:
+      indent_output: false 
 
 mybatis-plus:
   mapper-locations: classpath:/mapper/*Mapper.xml
