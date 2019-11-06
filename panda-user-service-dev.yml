@@ -55,6 +55,11 @@ mybatis-plus:
 #    com.yukong.panda.user.mapper: debug
 #    com.yukong.panda.common.base.mapper: debug
 
+#自定义参数，可以迁移走
+token:
+  #redis默认过期时间（2小时）(这是自定义的)(毫秒)
+  expirationMilliSeconds: 7200000
+
 #微信相关参数
 weChat:
   #小程序appid
