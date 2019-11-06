@@ -11,6 +11,7 @@ ignore:
   - /**/*.css
   - /auth/**
   - /admin/user/mobile/**
+  - /admin/user/login
   - /refresh/**
   - /swagger-ui.html
   - /swagger-resources/**
