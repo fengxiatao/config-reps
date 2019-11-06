@@ -55,4 +55,10 @@ mybatis-plus:
 #    com.yukong.panda.user.mapper: debug
 #    com.yukong.panda.common.base.mapper: debug
 
+#微信相关参数
+weChat:
+  #小程序appid
+  appid: wxa84a974ab02323b8
+  #小程序密钥
+  secret: 2daecf90c4d471fae7336e804b2638fd
 
