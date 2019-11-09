@@ -12,6 +12,7 @@ ignore:
   - /token/**
   - /user/**
   - /mobile/**
+  - /wxsmpg/**
   - /**/*.css
   - /auth/**
   - /refresh/**
