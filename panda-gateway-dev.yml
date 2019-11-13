@@ -12,6 +12,7 @@ ignore:
   - /auth/**
   - /admin/user/mobile/**
   - /admin/user/login
+  - /admin/user/wxNotify
   - /refresh/**
   - /swagger-ui.html
   - /swagger-resources/**
