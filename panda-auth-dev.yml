@@ -13,6 +13,7 @@ ignore:
   - /user/**
   - /mobile/**
   - /wxsmpg/**
+  - /alismpg/**
   - /**/*.css
   - /auth/**
   - /refresh/**
