@@ -10,6 +10,7 @@ ignore:
   urls:
   - /**/*.css
   - /auth/**
+  - /**/mqtt
   - /admin/user/mobile/**
   - /admin/user/login
   - /admin/user/wxNotify
